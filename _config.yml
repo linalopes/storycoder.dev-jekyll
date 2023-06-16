@@ -1,0 +1,15 @@
+# Site
+title: 'StoryCoder.dev'
+subtitle: 'Jekyll prototype'
+keywords: 'story, coding, learning'
+
+# URL
+url: ''
+baseurl: ''
+include: ['_pages']
+
+email: ''
+
+# Build settings
+markdown: kramdown
+port: 7878
